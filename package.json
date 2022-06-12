@@ -1,0 +1,29 @@
+{
+  "name": "vyom-theme",
+  "displayName": "vyom-theme",
+  "description": "A professional dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keyword": [
+    "vyom",
+    "vyom theme",
+    "dark theme",
+    "dark skin",
+    "vyom theme",
+    "pro dark theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vyom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vyom-dark-theme.json"
+      }
+    ]
+  }
+}
