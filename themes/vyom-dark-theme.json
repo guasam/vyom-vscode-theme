@@ -3,24 +3,47 @@
   "name": "Vyom Theme",
   "type": "dark",
   "colors": {
+    "foreground": "#bbbbbb",
+    "errorForeground": "#ff0000",
+    "focusBorder": "#00000000",
+    "editorCursor.foreground": "#ffb300da",
+
+    "editor.background": "#1e1e1e",
+    "editor.foreground": "#bbbbbb",
+    "editor.selectionBackground": "#2c507884",
+    "editor.selectionHighlightBackground": "#2c5078b5",
+    "editor.inactiveSelectionBackground": "#2c507884",
+    "editor.lineHighlightBackground": "#22272cad",
+    "editor.wordHighlightBackground": "#2c507884",
+
+    "tab.activeBackground": "#1e1e1e",
+    "tab.activeForeground": "#bbbbbb",
+    "tab.inactiveBackground": "#23272d6f",
+    "tab.inactiveForeground": "#adbac5bc",
+    "tab.border": "#191f25",
+    "tab.hoverForeground": "#bbbbbb",
+    "tab.activeModifiedBorder": "#bb4476",
+    "tab.inactiveModifiedBorder": "#bb447683",
+    "editorGroupHeader.tabsBackground": "#191f25",
+
+    "breadcrumb.background": "#1e1e1e",
+    "breadcrumb.foreground": "#bbbbbb",
+    "breadcrumb.activeSelectionForeground": "#e1699b",
+
     "activityBar.activeBackground": "#1e262f9c",
     "activityBar.activeBorder": "#79a1cc",
-    "activityBar.background": "#2d3844",
-    "activityBar.inactiveForeground": "#6b7f94b4",
+    "activityBar.background": "#28323d",
+    "activityBar.inactiveForeground": "#6b7f94f8",
     "activityBar.foreground": "#a4b7d1",
     "activityBar.activeFocusBorder": "#fe7ab2",
     "activityBar.dropBorder": "#fe7ab2",
-    "activityBar.border": "#3f5061",
+    "activityBar.border": "#374452",
 
     "activityBarBadge.background": "#bb4476",
     "activityBarBadge.foreground": "#ffffff",
 
     "badge.background": "#b35118d8",
     "badge.foreground": "#ffffffbe",
-
-    "breadcrumb.background": "#1a1a1add",
-    "breadcrumb.foreground": "#fff",
-    "breadcrumb.activeSelectionForeground": "#e1699b",
 
     "button.background": "#2e3c4b",
     "button.foreground": "#ffffffe3",
@@ -31,28 +54,24 @@
     "dropdown.border": "#4141417c",
     "dropdown.listBackground": "#171717",
 
-    "editor.background": "#1e1e1e",
-    "editor.foreground": "#bbbbbb",
-    "editor.selectionBackground": "#2c507884",
-    "editor.selectionHighlightBackground": "#2c5078b5",
-    "editor.inactiveSelectionBackground": "#2c507884",
-    "editor.lineHighlightBackground": "#22272cad",
-    "editor.wordHighlightBackground": "#2c507884",
-
     "editorBracketMatch.border": "#4e6374",
     "editorBracketMatch.background": "#242424",
 
-    "editorCursor.foreground": "#ffb300da",
 
     "sideBar.background": "#1f252d",
     "sideBar.border": "#0000003c",
     "sideBar.foreground": "#a4b7d1",
     "sideBar.dropBackground": "#272f3a",
-    "sideBarTitle.foreground": "#83a7d9",
+
+    "sideBarTitle.foreground": "#bbbbbbd4",
     "sideBarSectionHeader.background": "#00000035",
     "sideBarSectionHeader.foreground": "#7390ad",
     "sideBarSectionHeader.border": "#00000041",
 
+    "titleBar.activeBackground": "#222a33",
+    "titleBar.activeForeground": "#c5ced8",
+    "titleBar.inactiveBackground": "#28323d",
+    "titleBar.inactiveForeground": "#adbac5bc",
 
     "list.activeSelectionBackground": "#3f312891",
     "list.activeSelectionForeground": "#aca490",
