@@ -31,10 +31,10 @@
     "breadcrumb.activeSelectionForeground": "#e1699b",
 
     "activityBar.activeBackground": "#1e262f9c",
-    "activityBar.activeBorder": "#b9cde8",
+    "activityBar.activeBorder": "#b9cde8e8",
     "activityBar.background": "#283037",
     "activityBar.inactiveForeground": "#667683",
-    "activityBar.foreground": "#b9cde8",
+    "activityBar.foreground": "#b9cde8e8",
     "activityBar.activeFocusBorder": "#fe7ab2",
     "activityBar.dropBorder": "#bb4476",
 
