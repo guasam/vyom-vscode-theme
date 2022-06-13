@@ -22,8 +22,8 @@
     "tab.inactiveForeground": "#adbac5d9",
     "tab.border": "#1b1f23c4",
     "tab.hoverForeground": "#bbbbbb",
-    "tab.activeModifiedBorder": "#bb4476",
-    "tab.inactiveModifiedBorder": "#bb447683",
+    "tab.activeModifiedBorder": "#556777e6",
+    "tab.inactiveModifiedBorder": "#55677781",
     "editorGroupHeader.tabsBackground": "#283037",
 
     "breadcrumb.background": "#1e1e1e",
