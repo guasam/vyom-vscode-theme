@@ -149,6 +149,23 @@
     "peekViewTitleLabel.foreground": "#c4d0dcde",
     "peekViewResult.matchHighlightBackground": "#4a719392",
 
+    "symbolIcon.arrayForeground": "#9c9c9c",
+    "symbolIcon.booleanForeground": "#cf7c7c",
+    "symbolIcon.classForeground": "#59ae8b",
+    "symbolIcon.constantForeground": "#cf7c7c",
+    "symbolIcon.constructorForeground": "#d39a69",
+    "symbolIcon.fieldForeground": "#92b4b1",
+    "symbolIcon.functionForeground": "#c1a860",
+    "symbolIcon.interfaceForeground": "#3a9c93",
+    "symbolIcon.methodForeground": "#c1a860",
+    "symbolIcon.moduleForeground": "#9c9c9c",
+    "symbolIcon.namespaceForeground": "#d39a69",
+    "symbolIcon.numberForeground": "#cf7c7c",
+    "symbolIcon.objectForeground": "#cf7c9f",
+    "symbolIcon.propertyForeground": "#92b4b1",
+    "symbolIcon.stringForeground": "#53ab62",
+    "symbolIcon.variableForeground": "#92b4b1",
+
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d"
   },
