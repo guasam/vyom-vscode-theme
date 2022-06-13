@@ -4,7 +4,6 @@
   "type": "dark",
   "colors": {
     "foreground": "#bbbbbb",
-    "errorForeground": "#ff0000",
     "focusBorder": "#55779370",
     "editorCursor.foreground": "#ffb300da",
     "editorError.foreground": "#ff000000", // Remove
@@ -41,10 +40,10 @@
     // "activityBar.border": "#303d4a",
 
     "activityBarBadge.background": "#bb4476",
-    "activityBarBadge.foreground": "#ffffff",
+    "activityBarBadge.foreground": "#ffffffdd",
 
-    "badge.background": "#b35118d8",
-    "badge.foreground": "#ffffffbe",
+    "badge.background": "#bb4476",
+    "badge.foreground": "#ffffffdd",
 
     "button.background": "#2d3841",
     "button.foreground": "#ffffffcf",
@@ -89,6 +88,15 @@
     "textLink.activeForeground": "#8ac0f6e7",
     "textPreformat.foreground": "#e08baee0",
 
+
+    // Scroll Bar
+    "scrollbar.shadow": "#111111b2",
+
+    // Scroll Bar Slider
+    "scrollbarSlider.background": "#3e485180",
+    "scrollbarSlider.hoverBackground": "#3e4851b3",
+    "scrollbarSlider.activeBackground": "#4b5763bb",
+
     "icon.foreground": "#d3d8de80",
 
     "input.background": "#171717",
@@ -97,7 +105,9 @@
     "input.placeholderForeground": "#a6b5c27a",
 
     "statusBar.background": "#913a5f",
-    "statusBar.debuggingBackground": "#a52f2f"
+    "statusBar.debuggingBackground": "#a52f2f",
+
+    "editor.findMatchHighlightBackground": "#4a719392",
   },
   "tokenColors": [
     {
