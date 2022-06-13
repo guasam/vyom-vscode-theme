@@ -120,7 +120,7 @@
     "editorSuggestWidget.foreground": "#a6b3c1de",
     "editorSuggestWidget.highlightForeground": "#c58961",
     "editorSuggestWidget.selectedBackground": "#35434fbd",
-    "editorSuggestWidget.focusHighlightForeground": "#6ab0ff",
+    "editorSuggestWidget.focusHighlightForeground": "#79baffde",
 
     "gitDecoration.modifiedResourceForeground": "#ffbf67e0",
     "gitDecoration.untrackedResourceForeground": "#63ececba",
