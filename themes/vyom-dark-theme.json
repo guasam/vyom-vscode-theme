@@ -107,6 +107,9 @@
     "editor.findMatchHighlightBackground": "#4a719392",
     "editorInlayHint.background": "#252525e1",
     "editorInlayHint.foreground": "#8f9ca8c0",
+
+    "editorIndentGuide.activeBackground": "#454545",
+    "editorIndentGuide.background": "#2d2d2d"
   },
   "tokenColors": [
     {
@@ -254,7 +257,7 @@
       "name": "HTML Tag",
       "scope": ["entity.name.tag"],
       "settings": {
-        "foreground": "#DD9AC5"
+        "foreground": "#fe7ab2"
       }
     },
     {
