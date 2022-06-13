@@ -37,7 +37,6 @@
     "activityBar.foreground": "#b9cde8",
     "activityBar.activeFocusBorder": "#fe7ab2",
     "activityBar.dropBorder": "#bb4476",
-    // "activityBar.border": "#303d4a",
 
     "activityBarBadge.background": "#bb4476",
     "activityBarBadge.foreground": "#ffffffdd",
@@ -88,7 +87,6 @@
     "textLink.activeForeground": "#8ac0f6e7",
     "textPreformat.foreground": "#e08baee0",
 
-
     // Scroll Bar
     "scrollbar.shadow": "#111111b2",
 
@@ -100,7 +98,6 @@
     "icon.foreground": "#d3d8de80",
 
     "input.background": "#171717",
-    "input.border": "#262626",
     "input.foreground": "#a6b5c2e6",
     "input.placeholderForeground": "#a6b5c27a",
 
@@ -108,6 +105,8 @@
     "statusBar.debuggingBackground": "#a52f2f",
 
     "editor.findMatchHighlightBackground": "#4a719392",
+    "editorInlayHint.background": "#252525e1",
+    "editorInlayHint.foreground": "#8f9ca8c0",
   },
   "tokenColors": [
     {
