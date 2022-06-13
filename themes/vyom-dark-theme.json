@@ -129,6 +129,19 @@
     "menu.selectionForeground": "#b9cfe2ea",
     "menu.separatorBackground": "#5577933c",
 
+    "peekView.border": "#55779359",
+    "peekViewEditor.background": "#282b2d",
+    "peekViewTitle.background": "#232527",
+    "peekViewEditor.matchHighlightBackground": "#4a719392",
+    "peekViewResult.background": "#232527",
+    "peekViewResult.fileForeground": "#a3a3a3",
+    "peekViewResult.lineForeground": "#a3a3a3",
+    "peekViewResult.selectionBackground": "#35434fbd",
+    "peekViewResult.selectionForeground": "#b9cfe2ea",
+    "peekViewTitleDescription.foreground": "#8ac0f6c4",
+    "peekViewTitleLabel.foreground": "#c4d0dcde",
+    "peekViewResult.matchHighlightBackground": "#4a719392",
+
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d"
   },
