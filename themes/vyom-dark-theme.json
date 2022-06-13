@@ -10,9 +10,9 @@
 
     "editor.background": "#1e1e1e",
     "editor.foreground": "#bbbbbb",
-    "editor.selectionBackground": "#2c507884",
-    "editor.selectionHighlightBackground": "#2c5078b5",
-    "editor.inactiveSelectionBackground": "#2c507884",
+    "editor.selectionBackground": "#35434f82",
+    "editor.selectionHighlightBackground": "#35434f5b",
+    "editor.inactiveSelectionBackground": "#35434f5b",
     "editor.lineHighlightBackground": "#22272cad",
     "editor.wordHighlightBackground": "#2c507884",
 
