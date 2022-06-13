@@ -72,6 +72,7 @@
     "list.activeSelectionBackground": "#35434fbd",
     "list.activeSelectionForeground": "#b9cfe2",
     "list.focusOutline": "#ff000000",
+    "list.errorForeground": "#ff7fb4",
 
     "settings.rowHoverBackground": "#232527cc",
     "settings.focusedRowBackground": "#232527",
@@ -107,6 +108,13 @@
     "editor.findMatchHighlightBackground": "#4a719392",
     "editorInlayHint.background": "#252525e1",
     "editorInlayHint.foreground": "#8f9ca8c0",
+
+    "gitDecoration.modifiedResourceForeground": "#ffbf67e0",
+    "gitDecoration.untrackedResourceForeground": "#63ececba",
+    "gitDecoration.addedResourceForeground": "#75bcf2ed",
+    "gitDecoration.deletedResourceForeground": "#ff9797ed",
+    "gitDecoration.conflictingResourceForeground": "#ff98c4ed",
+    "gitDecoration.submoduleResourceForeground": "#699bdb",
 
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d"
