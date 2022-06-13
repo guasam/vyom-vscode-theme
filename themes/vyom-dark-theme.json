@@ -70,8 +70,13 @@
     "titleBar.inactiveForeground": "#adbac5bc",
 
     "list.activeSelectionBackground": "#35434fbd",
-    "list.activeSelectionForeground": "#b9cfe2",
-    "list.focusOutline": "#ff000000",
+    "list.activeSelectionForeground": "#b9cfe2ea",
+    "list.focusOutline": "#35434f66",
+    "list.focusBackground": "#35434f66",
+    "list.inactiveSelectionBackground": "#35434f92",
+    "list.inactiveFocusBackground": "#35434f92",
+    "list.inactiveSelectionForeground": "#b9cfe2ea",
+    "list.hoverBackground": "#35434f66",
     "list.errorForeground": "#ff7fb4",
 
     "settings.rowHoverBackground": "#232527cc",
