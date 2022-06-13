@@ -122,6 +122,13 @@
     "gitDecoration.conflictingResourceForeground": "#ff98c4ed",
     "gitDecoration.submoduleResourceForeground": "#699bdb",
 
+    "menu.background": "#232527",
+    "menu.border": "#5577933c",
+    "menu.foreground": "#c4d0dcde",
+    "menu.selectionBackground": "#35434fbd",
+    "menu.selectionForeground": "#b9cfe2ea",
+    "menu.separatorBackground": "#5577933c",
+
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d"
   },
