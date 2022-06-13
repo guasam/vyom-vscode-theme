@@ -115,6 +115,13 @@
     "editorInlayHint.background": "#252525e1",
     "editorInlayHint.foreground": "#8f9ca8c0",
 
+    "editorSuggestWidget.background": "#232527",
+    "editorSuggestWidget.border": "#5577933c",
+    "editorSuggestWidget.foreground": "#a6b3c1de",
+    "editorSuggestWidget.highlightForeground": "#c58961",
+    "editorSuggestWidget.selectedBackground": "#35434fbd",
+    "editorSuggestWidget.focusHighlightForeground": "#6ab0ff",
+
     "gitDecoration.modifiedResourceForeground": "#ffbf67e0",
     "gitDecoration.untrackedResourceForeground": "#63ececba",
     "gitDecoration.addedResourceForeground": "#75bcf2ed",
