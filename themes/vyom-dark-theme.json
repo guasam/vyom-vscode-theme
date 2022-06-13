@@ -103,6 +103,7 @@
     "input.placeholderForeground": "#a6b5c27a",
 
     "statusBar.background": "#913a5f",
+    "statusBar.noFolderBackground": "#913a5f",
     "statusBar.debuggingBackground": "#a52f2f",
 
     "editor.findMatchHighlightBackground": "#4a719392",
