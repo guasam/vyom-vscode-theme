@@ -210,7 +210,8 @@
         "entity.name.type.namespace",
         "entity.name.namespace",
         "support.other.namespace",
-        "meta.export.default entity.name.type.module"
+        "meta.export.default entity.name.type.module",
+        "entity.other.attribute-name.pseudo-class.css"
       ],
       "settings": {
         "foreground": "#ffffffcb"
@@ -225,7 +226,8 @@
         "bracket.round meta.function-call",
         "comment.block.documentation punctuation.definition.bracket.curly",
         "entity.name.variable.field.cs",
-        "variable.other.readwrite.cs"
+        "variable.other.readwrite.cs",
+        "support.type.property-name.css"
       ],
       "settings": {
         "foreground": "#BBBBBB"
@@ -233,7 +235,7 @@
     },
     {
       "name": "Number",
-      "scope": ["constant.numeric"],
+      "scope": ["constant.numeric", "support.constant.property-value.css"],
       "settings": {
         "foreground": "#ff8c69"
       }
@@ -267,7 +269,8 @@
         "keyword.other.phpdoc",
         "comment.block.documentation storage.type.class",
         "comment.block.documentation entity.name.tag",
-        "punctuation.section.embedded.begin.php"
+        "punctuation.section.embedded.begin.php",
+        "support.type.property-name"
       ],
       "settings": {
         "foreground": "#DD9AC5"
@@ -275,7 +278,7 @@
     },
     {
       "name": "Class Declaration",
-      "scope": ["entity.name.type.class"],
+      "scope": ["entity.name.type.class", "entity.other.attribute-name.class.css"],
       "settings": {
         "foreground": "#6bdfffed"
       }
@@ -284,7 +287,6 @@
       "name": "Class Support",
       "scope": [
         "support.class",
-        "support.type.property-name",
         "entity.name.type.module",
         "entity.other.inherited-class",
         "entity.name.class",
@@ -293,7 +295,8 @@
         "entity.name.label",
         "markup.inline.raw.string.markdown",
         "entity.name.type.cpp",
-        "entity.name.type.cs"
+        "entity.name.type.cs",
+        "constant.other.color.rgb-value.hex.css"
       ],
       "settings": {
         "foreground": "#60c991"
@@ -301,7 +304,13 @@
     },
     {
       "name": "Class Methods",
-      "scope": ["entity.name.function", "punctuation.definition.variable.php", "meta.type.annotation entity.name.type"],
+      "scope": [
+        "entity.name.function",
+        "punctuation.definition.variable.php",
+        "meta.type.annotation entity.name.type",
+        "variable.css",
+        "variable.argument.css"
+      ],
       "settings": {
         "foreground": "#4DB1CB"
       }
@@ -324,7 +333,7 @@
         "entity.name.function.preprocessor"
       ],
       "settings": {
-        "foreground": "#96b8e9"
+        "foreground": "#DD9AC5"
       }
     },
     {
