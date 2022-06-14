@@ -169,10 +169,9 @@
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d",
 
-
     "panelTitle.inactiveForeground": "#e7e7e799",
     "panelTitle.activeForeground": "#92a3b1",
-    "panelTitle.activeBorder": "#92a3b1",
+    "panelTitle.activeBorder": "#92a3b1"
   },
   "tokenColors": [
     {
@@ -209,7 +208,9 @@
         "meta.class meta.function-call",
         "keyword.other.array.phpdoc",
         "bracket.round meta.function-call",
-        "comment.block.documentation punctuation.definition.bracket.curly"
+        "comment.block.documentation punctuation.definition.bracket.curly",
+        "entity.name.variable.field.cs",
+        "variable.other.readwrite.cs"
       ],
       "settings": {
         "foreground": "#BBBBBB"
@@ -267,7 +268,10 @@
         "entity.name.class",
         "meta.return.type entity.name.type",
         "comment.block.documentation entity.name.type.instance",
-        "entity.name.label"
+        "entity.name.label",
+        "markup.inline.raw.string.markdown",
+        "entity.name.type.cpp",
+        "entity.name.type.cs"
       ],
       "settings": {
         "foreground": "#d9baff"
@@ -311,7 +315,13 @@
     },
     {
       "name": "Function Parameter (Arguments)",
-      "scope": ["variable.other", "text.html.vue-html variable.other.readwrite"],
+      "scope": [
+        "variable.other",
+        "text.html.vue-html variable.other.readwrite",
+        "string.other.link.title",
+        "variable.other.object.property.cs",
+        "entity.name.variable.parameter.cs"
+      ],
       "settings": {
         "foreground": "#6cc1c1"
       }
