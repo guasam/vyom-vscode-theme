@@ -18,23 +18,23 @@
 
     "tab.activeBackground": "#1e1e1e",
     "tab.activeForeground": "#bbbbbb",
-    "tab.inactiveBackground": "#242c32",
-    "tab.inactiveForeground": "#adbac5d9",
+    "tab.inactiveBackground": "#272c2f",
+    "tab.inactiveForeground": "#9ca9b1",
     "tab.border": "#1b1f23c4",
     "tab.hoverForeground": "#bbbbbb",
     "tab.activeModifiedBorder": "#556777e6",
     "tab.inactiveModifiedBorder": "#55677781",
-    "editorGroupHeader.tabsBackground": "#283037",
+    "editorGroupHeader.tabsBackground": "#242628",
 
     "breadcrumb.background": "#1e1e1e",
     "breadcrumb.foreground": "#bbbbbb",
     "breadcrumb.activeSelectionForeground": "#e1699b",
 
-    "activityBar.activeBackground": "#1e262f9c",
-    "activityBar.activeBorder": "#b9cde8e8",
-    "activityBar.background": "#283037",
-    "activityBar.inactiveForeground": "#667683",
-    "activityBar.foreground": "#b9cde8e8",
+    "activityBar.activeBackground": "#272c2f",
+    "activityBar.activeBorder": "#c7d4e5e8",
+    "activityBar.background": "#2b3034",
+    "activityBar.inactiveForeground": "#c7d4e56f",
+    "activityBar.foreground": "#c7d4e5e8",
     "activityBar.activeFocusBorder": "#fe7ab2",
     "activityBar.dropBorder": "#bb4476",
 
@@ -60,13 +60,13 @@
     "sideBar.dropBackground": "#272f3a",
 
     "sideBarTitle.foreground": "#bbbbbbd4",
-    "sideBarSectionHeader.background": "#283037",
+    "sideBarSectionHeader.background": "#272c2f",
     "sideBarSectionHeader.foreground": "#92a3b1",
     "sideBarSectionHeader.border": "#00000041",
 
-    "titleBar.activeBackground": "#2d363e",
+    "titleBar.activeBackground": "#31363a",
     "titleBar.activeForeground": "#c5ced8",
-    "titleBar.inactiveBackground": "#283037",
+    "titleBar.inactiveBackground": "#2b3034",
     "titleBar.inactiveForeground": "#adbac5bc",
 
     "list.activeSelectionBackground": "#35434fbd",
@@ -167,7 +167,12 @@
     "symbolIcon.variableForeground": "#92b4b1",
 
     "editorIndentGuide.activeBackground": "#454545",
-    "editorIndentGuide.background": "#2d2d2d"
+    "editorIndentGuide.background": "#2d2d2d",
+
+
+    "panelTitle.inactiveForeground": "#e7e7e799",
+    "panelTitle.activeForeground": "#92a3b1",
+    "panelTitle.activeBorder": "#92a3b1",
   },
   "tokenColors": [
     {
@@ -249,7 +254,7 @@
       "name": "Class Declaration",
       "scope": ["entity.name.type.class"],
       "settings": {
-        "foreground": "#6bdfff"
+        "foreground": "#6bdfffed"
       }
     },
     {
