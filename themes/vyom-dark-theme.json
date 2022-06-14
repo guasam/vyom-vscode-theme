@@ -246,7 +246,11 @@
     },
     {
       "name": "Comment Doc Keyword",
-      "scope": ["keyword.other.phpdoc", "comment.block.documentation storage.type.class"],
+      "scope": [
+        "keyword.other.phpdoc",
+        "comment.block.documentation storage.type.class",
+        "comment.block.documentation entity.name.tag"
+      ],
       "settings": {
         "foreground": "#DD9AC5"
       }
