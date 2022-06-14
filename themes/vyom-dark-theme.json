@@ -210,6 +210,7 @@
         "entity.name.type.namespace",
         "entity.name.namespace",
         "support.other.namespace",
+        "storage.modifier.import.java",
         "meta.export.default entity.name.type.module",
         "entity.other.attribute-name.pseudo-class.css"
       ],
@@ -346,7 +347,8 @@
         "string.other.link.title",
         "variable.other.object.property.cs",
         "entity.name.variable.parameter.cs",
-        "variable.parameter.dart"
+        "variable.parameter.dart",
+        "variable.parameter.java"
       ],
       "settings": {
         "foreground": "#6cc1c1"
