@@ -169,15 +169,25 @@
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d",
 
-
     "panelTitle.inactiveForeground": "#e7e7e799",
     "panelTitle.activeForeground": "#92a3b1",
-    "panelTitle.activeBorder": "#92a3b1",
+    "panelTitle.activeBorder": "#92a3b1"
   },
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment", "punctuation.definition.generic"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "punctuation.definition.generic",
+        "punctuation.definition.link.title",
+        "punctuation.definition.metadata.markdown",
+        "punctuation.definition.list",
+        "markup.heading",
+        "punctuation.definition.raw.markdown",
+        "meta.separator.markdown",
+        "markup.fenced_code.block"
+      ],
       "settings": {
         "foreground": "#7f8c98"
       }
@@ -237,7 +247,9 @@
         "keyword.other.typedef",
         "constant.language",
         "constant.other",
-        "support.type.primitive"
+        "support.type.primitive",
+        "fenced_code.block.language",
+        "markup.fenced_code.block punctuation.definition"
       ],
       "settings": {
         "foreground": "#fe7ab2"
@@ -267,7 +279,8 @@
         "entity.name.class",
         "meta.return.type entity.name.type",
         "comment.block.documentation entity.name.type.instance",
-        "entity.name.label"
+        "entity.name.label",
+        "markup.inline.raw.string.markdown"
       ],
       "settings": {
         "foreground": "#d9baff"
@@ -311,9 +324,16 @@
     },
     {
       "name": "Function Parameter (Arguments)",
-      "scope": ["variable.other", "text.html.vue-html variable.other.readwrite"],
+      "scope": ["variable.other", "text.html.vue-html variable.other.readwrite", "string.other.link.title"],
       "settings": {
         "foreground": "#6cc1c1"
+      }
+    },
+    {
+      "name": "Link",
+      "scope": ["meta.link.inline"],
+      "settings": {
+        "foreground": "#8ac0f6c4"
       }
     },
     {
