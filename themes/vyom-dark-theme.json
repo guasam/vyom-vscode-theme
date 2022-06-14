@@ -280,7 +280,8 @@
         "meta.return.type entity.name.type",
         "comment.block.documentation entity.name.type.instance",
         "entity.name.label",
-        "markup.inline.raw.string.markdown"
+        "markup.inline.raw.string.markdown",
+        "entity.name.type.cpp"
       ],
       "settings": {
         "foreground": "#d9baff"
@@ -302,8 +303,7 @@
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
-        "support.type.sys-types",
-        "entity.name.type.module"
+        "support.type.sys-types"
       ],
       "settings": {
         "foreground": "#ffbf67e0"
@@ -316,7 +316,8 @@
         "variable.function",
         "keyword.other.special-method",
         "constant.other.php",
-        "variable.other.constant.object"
+        "variable.other.constant.object",
+        "entity.name.function.preprocessor"
       ],
       "settings": {
         "foreground": "#96b8e9"
