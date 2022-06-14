@@ -6,6 +6,7 @@
     "foreground": "#bbbbbb",
     "focusBorder": "#55779370",
     "editorCursor.foreground": "#ffb300da",
+    "editorError.foreground": "#ff000000",
 
     "editor.background": "#1e1e1e",
     "editor.foreground": "#bbbbbb",
