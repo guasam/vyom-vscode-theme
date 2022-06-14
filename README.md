@@ -29,6 +29,34 @@ User Interface
 
 ![Vyom Front](/images/front.png)
 
+
+<br>
+
+## User Interface Color Changes :
+
+* Editor
+* Tabs
+* Breadcrumb
+* Activity Bar
+* Sidebar
+* Titlebar
+* Statusbar
+* Scrollbar
+* Editor Suggest Widget
+* Git Drecorations
+* Menu
+* Peek View Result
+* Panel Title
+* Explorer List
+* Settings
+* Button
+* Dropdown
+* Input
+
+<br>
+
+## Language Screenshots
+
 Typescript + React
 
 ![React](/images/react.png)
