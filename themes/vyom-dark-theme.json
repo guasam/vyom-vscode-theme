@@ -194,7 +194,7 @@
     },
     {
       "name": "String Quoted",
-      "scope": ["string.quoted"],
+      "scope": ["string.quoted", "string.interpolated.single.dart"],
       "settings": {
         "foreground": "#fe8170"
       }
@@ -227,7 +227,8 @@
         "comment.block.documentation punctuation.definition.bracket.curly",
         "entity.name.variable.field.cs",
         "variable.other.readwrite.cs",
-        "support.type.property-name.css"
+        "support.type.property-name.css",
+        "keyword.operator.ternary.dart"
       ],
       "settings": {
         "foreground": "#BBBBBB"
@@ -309,7 +310,8 @@
         "punctuation.definition.variable.php",
         "meta.type.annotation entity.name.type",
         "variable.css",
-        "variable.argument.css"
+        "variable.argument.css",
+        "string.interpolated.single.dart"
       ],
       "settings": {
         "foreground": "#4DB1CB"
@@ -343,7 +345,8 @@
         "text.html.vue-html variable.other.readwrite",
         "string.other.link.title",
         "variable.other.object.property.cs",
-        "entity.name.variable.parameter.cs"
+        "entity.name.variable.parameter.cs",
+        "variable.parameter.dart"
       ],
       "settings": {
         "foreground": "#6cc1c1"
