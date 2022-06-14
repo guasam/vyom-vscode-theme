@@ -169,10 +169,9 @@
     "editorIndentGuide.activeBackground": "#454545",
     "editorIndentGuide.background": "#2d2d2d",
 
-
     "panelTitle.inactiveForeground": "#e7e7e799",
     "panelTitle.activeForeground": "#92a3b1",
-    "panelTitle.activeBorder": "#92a3b1",
+    "panelTitle.activeBorder": "#92a3b1"
   },
   "tokenColors": [
     {
@@ -267,7 +266,8 @@
         "entity.name.class",
         "meta.return.type entity.name.type",
         "comment.block.documentation entity.name.type.instance",
-        "entity.name.label"
+        "entity.name.label",
+        "entity.name.type.cpp"
       ],
       "settings": {
         "foreground": "#d9baff"
@@ -289,8 +289,7 @@
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
-        "support.type.sys-types",
-        "entity.name.type.module"
+        "support.type.sys-types"
       ],
       "settings": {
         "foreground": "#ffbf67e0"
@@ -303,7 +302,8 @@
         "variable.function",
         "keyword.other.special-method",
         "constant.other.php",
-        "variable.other.constant.object"
+        "variable.other.constant.object",
+        "entity.name.function.preprocessor"
       ],
       "settings": {
         "foreground": "#96b8e9"
