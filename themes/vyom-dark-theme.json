@@ -176,7 +176,18 @@
   "tokenColors": [
     {
       "name": "Comment",
-      "scope": ["comment", "punctuation.definition.comment", "punctuation.definition.generic"],
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "punctuation.definition.generic",
+        "punctuation.definition.link.title",
+        "punctuation.definition.metadata.markdown",
+        "punctuation.definition.list",
+        "markup.heading",
+        "punctuation.definition.raw.markdown",
+        "meta.separator.markdown",
+        "markup.fenced_code.block"
+      ],
       "settings": {
         "foreground": "#7f8c98"
       }
@@ -238,7 +249,9 @@
         "keyword.other.typedef",
         "constant.language",
         "constant.other",
-        "support.type.primitive"
+        "support.type.primitive",
+        "fenced_code.block.language",
+        "markup.fenced_code.block punctuation.definition"
       ],
       "settings": {
         "foreground": "#fe7ab2"
@@ -278,7 +291,7 @@
         "entity.name.type.cs"
       ],
       "settings": {
-        "foreground": "#d9baff"
+        "foreground": "#60c991"
       }
     },
     {
@@ -297,8 +310,7 @@
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
-        "support.type.sys-types",
-        "entity.name.type.module"
+        "support.type.sys-types"
       ],
       "settings": {
         "foreground": "#ffbf67e0"
@@ -311,7 +323,8 @@
         "variable.function",
         "keyword.other.special-method",
         "constant.other.php",
-        "variable.other.constant.object"
+        "variable.other.constant.object",
+        "entity.name.function.preprocessor"
       ],
       "settings": {
         "foreground": "#96b8e9"
@@ -328,6 +341,13 @@
       ],
       "settings": {
         "foreground": "#6cc1c1"
+      }
+    },
+    {
+      "name": "Link",
+      "scope": ["meta.link.inline"],
+      "settings": {
+        "foreground": "#8ac0f6c4"
       }
     },
     {
