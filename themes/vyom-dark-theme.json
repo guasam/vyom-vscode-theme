@@ -6,7 +6,6 @@
     "foreground": "#bbbbbb",
     "focusBorder": "#55779370",
     "editorCursor.foreground": "#ffb300da",
-    "editorError.foreground": "#ff000000", // Remove
 
     "editor.background": "#1e1e1e",
     "editor.foreground": "#bbbbbb",
@@ -44,9 +43,9 @@
     "badge.background": "#bb4476",
     "badge.foreground": "#ffffffdd",
 
-    "button.background": "#3e4a54",
+    "button.background": "#913a5f",
     "button.foreground": "#ffffffcf",
-    "button.secondaryBackground": "#565a5eeb",
+    "button.secondaryBackground": "#3e4a54",
     "button.secondaryForeground": "#ffffffda",
 
     "dropdown.foreground": "#879eb7",
