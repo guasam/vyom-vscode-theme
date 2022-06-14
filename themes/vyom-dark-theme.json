@@ -208,6 +208,7 @@
         "variable.other.readwrite",
         "variable.other.object",
         "entity.name.type.namespace",
+        "entity.name.namespace",
         "support.other.namespace",
         "meta.export.default entity.name.type.module"
       ],
