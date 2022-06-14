@@ -206,7 +206,10 @@
         "storage.type.function.arrow",
         "keyword.operator.assignment",
         "variable.other.readwrite",
-        "variable.other.object"
+        "variable.other.object",
+        "entity.name.type.namespace",
+        "support.other.namespace",
+        "meta.export.default entity.name.type.module"
       ],
       "settings": {
         "foreground": "#ffffffcb"
@@ -304,15 +307,7 @@
     },
     {
       "name": "Class Support",
-      "scope": [
-        "entity.name",
-        "support.type",
-        "support.orther.namespace.use.php",
-        "meta.use.php",
-        "support.other.namespace.php",
-        "markup.changed.git_gutter",
-        "support.type.sys-types"
-      ],
+      "scope": ["entity.name", "support.type", "markup.changed.git_gutter", "support.type.sys-types"],
       "settings": {
         "foreground": "#ffbf67e0"
       }
