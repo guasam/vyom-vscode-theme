@@ -6,7 +6,6 @@
     "foreground": "#bbbbbb",
     "focusBorder": "#55779370",
     "editorCursor.foreground": "#ffb300da",
-    "editorError.foreground": "#ff000000",
 
     "editor.background": "#1e1e1e",
     "editor.foreground": "#bbbbbb",
@@ -95,10 +94,7 @@
     "textLink.activeForeground": "#8ac0f6e7",
     "textPreformat.foreground": "#e08baee0",
 
-    // Scroll Bar
     "scrollbar.shadow": "#111111b2",
-
-    // Scroll Bar Slider
     "scrollbarSlider.background": "#3e485180",
     "scrollbarSlider.hoverBackground": "#3e4851b3",
     "scrollbarSlider.activeBackground": "#4b5763bb",
