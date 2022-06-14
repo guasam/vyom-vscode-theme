@@ -219,7 +219,9 @@
         "meta.class meta.function-call",
         "keyword.other.array.phpdoc",
         "bracket.round meta.function-call",
-        "comment.block.documentation punctuation.definition.bracket.curly"
+        "comment.block.documentation punctuation.definition.bracket.curly",
+        "entity.name.variable.field.cs",
+        "variable.other.readwrite.cs"
       ],
       "settings": {
         "foreground": "#BBBBBB"
@@ -281,7 +283,8 @@
         "comment.block.documentation entity.name.type.instance",
         "entity.name.label",
         "markup.inline.raw.string.markdown",
-        "entity.name.type.cpp"
+        "entity.name.type.cpp",
+        "entity.name.type.cs"
       ],
       "settings": {
         "foreground": "#d9baff"
@@ -325,7 +328,13 @@
     },
     {
       "name": "Function Parameter (Arguments)",
-      "scope": ["variable.other", "text.html.vue-html variable.other.readwrite", "string.other.link.title"],
+      "scope": [
+        "variable.other",
+        "text.html.vue-html variable.other.readwrite",
+        "string.other.link.title",
+        "variable.other.object.property.cs",
+        "entity.name.variable.parameter.cs"
+      ],
       "settings": {
         "foreground": "#6cc1c1"
       }
