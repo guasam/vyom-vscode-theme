@@ -44,8 +44,10 @@
     "badge.background": "#bb4476",
     "badge.foreground": "#ffffffdd",
 
-    "button.background": "#2d3841",
+    "button.background": "#3e4a54",
     "button.foreground": "#ffffffcf",
+    "button.secondaryBackground": "#565a5eeb",
+    "button.secondaryForeground": "#ffffffda",
 
     "dropdown.foreground": "#879eb7",
     "dropdown.background": "#171717",
