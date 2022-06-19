@@ -19,14 +19,12 @@
   "categories": [
     "Themes"
   ],
-  "keyword": [
-    "vyom",
-    "vyom theme",
-    "vyom skin",
-    "dark theme",
-    "dark skin",
-    "vyom theme",
-    "pro dark theme"
+  "keywords": [
+    "dark-theme",
+    "syntax-highlight",
+    "theme",
+    "professional",
+    "customization"
   ],
   "contributes": {
     "themes": [
