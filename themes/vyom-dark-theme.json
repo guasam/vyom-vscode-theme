@@ -116,12 +116,12 @@
     "editorInlayHint.background": "#252525e1",
     "editorInlayHint.foreground": "#8f9ca8c0",
 
-    "editorSuggestWidget.background": "#222425",
+    "editorSuggestWidget.background": "#1c1d1d",
     "editorSuggestWidget.border": "#5577933c",
-    "editorSuggestWidget.foreground": "#a6b3c1de",
-    "editorSuggestWidget.highlightForeground": "#c58961",
-    "editorSuggestWidget.selectedBackground": "#35434fbd",
-    "editorSuggestWidget.focusHighlightForeground": "#79baffde",
+    "editorSuggestWidget.foreground": "#d0d5dade",
+    "editorSuggestWidget.selectedBackground": "#4e323e92",
+    "editorSuggestWidget.selectedIconForeground": "#bbbbbb",
+    "editorSuggestWidget.selectedForeground": "#bbbbbb",
 
     "gitDecoration.modifiedResourceForeground": "#ffbf67e0",
     "gitDecoration.untrackedResourceForeground": "#63ececba",
@@ -130,11 +130,11 @@
     "gitDecoration.conflictingResourceForeground": "#ff98c4ed",
     "gitDecoration.submoduleResourceForeground": "#699bdb",
 
-    "menu.background": "#222425",
+    "menu.background": "#1c1d1d",
     "menu.border": "#5577933c",
-    "menu.foreground": "#c4d0dcde",
-    "menu.selectionBackground": "#35434fbd",
-    "menu.selectionForeground": "#b9cfe2ea",
+    "menu.foreground": "#d0d5dade",
+    "menu.selectionBackground": "#83546738",
+    "menu.selectionForeground": "#e19ebb",
     "menu.separatorBackground": "#5577933c",
 
     "notifications.background": "#222425",
