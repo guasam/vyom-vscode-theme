@@ -192,7 +192,7 @@
     },
     {
       "name": "String Quoted",
-      "scope": ["string.quoted", "string.interpolated.single.dart"],
+      "scope": ["string.quoted", "string.template", "string.interpolated.single.dart"],
       "settings": {
         "foreground": "#fe8170"
       }
@@ -227,7 +227,8 @@
         "entity.name.variable.field.cs",
         "variable.other.readwrite.cs",
         "support.type.property-name.css",
-        "keyword.operator.ternary.dart"
+        "keyword.operator.ternary.dart",
+        "punctuation.definition.template-expression"
       ],
       "settings": {
         "foreground": "#BBBBBB"
@@ -296,7 +297,8 @@
         "markup.inline.raw.string.markdown",
         "entity.name.type.cpp",
         "entity.name.type.cs",
-        "constant.other.color.rgb-value.hex.css"
+        "constant.other.color.rgb-value.hex.css",
+        "meta.tag.other.unrecognized.html entity.name.tag"
       ],
       "settings": {
         "foreground": "#60c991"
@@ -341,6 +343,7 @@
       "name": "Function Parameter (Arguments)",
       "scope": [
         "variable.other",
+        "variable.parameter",
         "text.html.vue-html variable.other.readwrite",
         "string.other.link.title",
         "variable.other.object.property.cs",
@@ -368,7 +371,7 @@
     },
     {
       "name": "HTML Tag Attribute",
-      "scope": ["entity.other.attribute-name"],
+      "scope": ["entity.other.attribute-name", "meta.objectliteral, entity.name.type.class"],
       "settings": {
         "foreground": "#ffbf67e0"
       }
