@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/guasam/vyom-vscode-theme"
   },
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.68.0"
   },
