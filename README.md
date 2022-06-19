@@ -5,6 +5,11 @@
   Vyom Theme
   <br><br>
 </h1>
+<p align="center">
+  A professional dark theme for Visual Studio Code (Editor)
+  <br>
+  <a href="https://marketplace.visualstudio.com/items?itemName=guasam.vyom">Vyom Theme - Visual Studio Marketplace</a>
+</p>
 <br>
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=guasam.vyom"><img src="https://vsmarketplacebadge.apphb.com/version-short/guasam.vyom.svg?style=for-the-badge&colorA=252526&colorB=43A047&style=rounded&label=VERSION" alt="Version"></a>&nbsp;
@@ -17,9 +22,9 @@
 
 ## Installation
 
-1. Open the extensions sidebar
-2. Search for `Vyom Theme`
-3. Click Install
+1. Open the Extensions from activity bar in Visual Studio Code `(Ctrl+Shift+X)`
+2. Search for theme :  `Vyom Theme`
+3. Click Install Button
 
 <br>
 
@@ -29,29 +34,9 @@ User Interface
 
 ![Vyom Front](/images/front.png)
 
+- Font in use : **Jetbrains Mono**
+- File Icons in use : **Material Icon Theme**
 
-<br>
-
-## User Interface Color Changes :
-
-* Editor
-* Tabs
-* Breadcrumb
-* Activity Bar
-* Sidebar
-* Titlebar
-* Statusbar
-* Scrollbar
-* Editor Suggest Widget
-* Git Drecorations
-* Menu
-* Peek View Result
-* Panel Title
-* Explorer List
-* Settings
-* Button
-* Dropdown
-* Input
 
 <br>
 
@@ -80,9 +65,6 @@ Java
 PHP
 
 ![PHP](/images/php.png)
-
-- Font : **Jetbrains Mono**
-- File Icons : **Material Icon Theme**
 
 <br>
 
@@ -113,6 +95,10 @@ These settings of editor might provide you a better experience with this theme :
 "editor.padding.top": 10,
 "terminal.integrated.lineHeight": 1.4,
 "editor.fontFamily": "'Jetbrains Mono', 'Fira Code', Consolas, monospace",
+"window.zoomLevel": 0.5,
+"material-icon-theme.folders.color": "#90a4ae",
+"material-icon-theme.saturation": 0.8,
+"material-icon-theme.opacity": 0.8,
 ```
 
 <br />
